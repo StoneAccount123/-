@@ -1,0 +1,17 @@
+D:\C#作业\第五次作业\e3.文件合并\e3.文件合并\obj\Debug\net6.0-windows\e3.文件合并.csproj.AssemblyReference.cache
+D:\C#作业\第五次作业\e3.文件合并\e3.文件合并\obj\Debug\net6.0-windows\e3.文件合并.Form1.resources
+D:\C#作业\第五次作业\e3.文件合并\e3.文件合并\obj\Debug\net6.0-windows\e3.文件合并.csproj.GenerateResource.cache
+D:\C#作业\第五次作业\e3.文件合并\e3.文件合并\obj\Debug\net6.0-windows\e3.文件合并.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#作业\第五次作业\e3.文件合并\e3.文件合并\obj\Debug\net6.0-windows\e3.文件合并.AssemblyInfoInputs.cache
+D:\C#作业\第五次作业\e3.文件合并\e3.文件合并\obj\Debug\net6.0-windows\e3.文件合并.AssemblyInfo.cs
+D:\C#作业\第五次作业\e3.文件合并\e3.文件合并\obj\Debug\net6.0-windows\e3.文件合并.csproj.CoreCompileInputs.cache
+D:\C#作业\第五次作业\e3.文件合并\e3.文件合并\bin\Debug\net6.0-windows\e3.文件合并.exe
+D:\C#作业\第五次作业\e3.文件合并\e3.文件合并\bin\Debug\net6.0-windows\e3.文件合并.deps.json
+D:\C#作业\第五次作业\e3.文件合并\e3.文件合并\bin\Debug\net6.0-windows\e3.文件合并.runtimeconfig.json
+D:\C#作业\第五次作业\e3.文件合并\e3.文件合并\bin\Debug\net6.0-windows\e3.文件合并.dll
+D:\C#作业\第五次作业\e3.文件合并\e3.文件合并\bin\Debug\net6.0-windows\ref\e3.文件合并.dll
+D:\C#作业\第五次作业\e3.文件合并\e3.文件合并\bin\Debug\net6.0-windows\e3.文件合并.pdb
+D:\C#作业\第五次作业\e3.文件合并\e3.文件合并\obj\Debug\net6.0-windows\e3.文件合并.dll
+D:\C#作业\第五次作业\e3.文件合并\e3.文件合并\obj\Debug\net6.0-windows\ref\e3.文件合并.dll
+D:\C#作业\第五次作业\e3.文件合并\e3.文件合并\obj\Debug\net6.0-windows\e3.文件合并.pdb
+D:\C#作业\第五次作业\e3.文件合并\e3.文件合并\obj\Debug\net6.0-windows\e3.文件合并.genruntimeconfig.cache

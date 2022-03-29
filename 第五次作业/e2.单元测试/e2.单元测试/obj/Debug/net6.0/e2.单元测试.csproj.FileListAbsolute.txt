@@ -1,0 +1,6 @@
+D:\C#作业\第五次作业\e2.单元测试\e2.单元测试\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\C#作业\第五次作业\e2.单元测试\e2.单元测试\obj\Debug\net6.0\e2.单元测试.csproj.AssemblyReference.cache
+D:\C#作业\第五次作业\e2.单元测试\e2.单元测试\obj\Debug\net6.0\e2.单元测试.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#作业\第五次作业\e2.单元测试\e2.单元测试\obj\Debug\net6.0\e2.单元测试.AssemblyInfoInputs.cache
+D:\C#作业\第五次作业\e2.单元测试\e2.单元测试\obj\Debug\net6.0\e2.单元测试.AssemblyInfo.cs
+D:\C#作业\第五次作业\e2.单元测试\e2.单元测试\obj\Debug\net6.0\e2.单元测试.csproj.CoreCompileInputs.cache
